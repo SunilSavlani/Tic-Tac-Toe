@@ -39,7 +39,7 @@ body{
     border-radius: 1rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
     font-size: 8vmin;
-    color: green;
+    color: blue;
     background-color: #ffffc7;
 }
 
@@ -67,4 +67,5 @@ body{
 
 .hide {
     display: none;
+
 }
